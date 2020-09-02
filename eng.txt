@@ -1,0 +1,81 @@
+Account verified. Please login to continue.
+All your Disney Favourites
+Be the first to see Disney+ Originals
+Be the first to see new exclusive Indonesian hits before anyone else.
+Download Error
+Download any movie or show
+Enjoy ad free entertainment
+Error
+Exclusive Indonesian Premieres
+Exclusive Indonesian premieres with top local stars
+FAQs
+Forgot Password
+I'm a Telkomsel customer, how should I sign up?
+Incorrect Email or Password. Please try again.
+Instructions for improving security will be sent to below email ID
+Marvel, Disney, Pixar, Star Wars, National Geographic and more
+Maximum attempts reached for verifying your Facebook account. Please try again after some time.
+Maximum attempts reached. Please check your inbox to change the password.
+Maximum attempts reached. Please try again after some time.
+Never-before-seen exclusive Disney+ Original movies, series and more
+Notifications may include alerts, sounds and icon badges. These can be configured in Settings.
+OK
+Please enter your correct age
+Please stop playing on other devices and retry
+Please wait while the video loads
+SUBSCRIBE
+Seems like you registered via facebook. Please use correct login method.
+Service Unavailable
+Session expired. Please logout & login to continue.
+Sign in to join the fun
+Something went wrong. Please try again in sometime. For help, write to hello@hotstar.com. (Error: %s)
+Stream in SD or HD on your mobile, computer or TV
+Stream on Android mobiles, iPhones, iPads, Computer, Android TV & Amazon Fire TV Stick, with more being added in the future.
+This login method is unavailable in your region. Please try a different method.
+This number is used by an existing account. Please try a different number.
+Unable to send OTP. Try Again
+Watch movies and shows uninterrupted
+We have your details already. Please proceed to continue.
+Write to us at %s in case of any queries.
+You'll find something for everyone with the huge library of movies
+Account logged out
+Account verified & logout initiated
+An error has occurred.
+Best of Marvel, Disney, Star Wars and many more.
+CONTINUE
+Can not create new user from facebook.
+Change Password
+Change your password to close other videos
+Continue watching your favourites even when you are offline
+Download
+Error playing this content due to DRM issues. Please try again.
+If not received, retry sending the code.
+Incorrect code entered. Please enter again
+LIVE
+LOG IN
+M
+Next Episode
+O
+OKAY
+Off
+Oops, something went wrong. Please try again in sometime.
+Playback Error
+Privacy Policy
+RETRY
+Session expired. Please login again.
+Something went wrong. Please restart the app.
+Something went wrong. Please try again in sometime.
+Something went wrong. Please try again in sometime. (ERROR : %s)
+Subscription Cancellation Error
+Subscription Error
+Subtitles
+The biggest global and Indonesian hits, all in one place.
+This content is currently not available in your region.
+This content is not supported on your device
+This email is not registered with us. Please sign up
+This email is not registered. Please enter correct email address.
+Verify to log out all devices
+We have sent a link to change your password to your email address %s
+We have sent a link to change your password to your email address <b>%s</b>.
+You are just one step away from verifying to continue watching again.
+You seem to be using a vpn or proxy. Please turn off any of these services and try again.
